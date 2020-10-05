@@ -39,7 +39,7 @@ def crear_plot(log_id):
     archivo = ("speedtest-{}.log".format(log_id))
     log = logDir+archivo
     df = leer_archivo(log)
-    return df, 
+    return df
 
 def leer_archivo(log):
     """
