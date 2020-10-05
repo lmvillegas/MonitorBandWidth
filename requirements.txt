@@ -1,0 +1,2 @@
+Flask~=1.1.2
+setuptools~=49.6.0
